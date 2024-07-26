@@ -45,6 +45,9 @@ body {
   height: 600px;
   width: 320px;
   padding: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
   background-color: rgba(0, 0, 0, 0.553);
   border-radius: 30px;
   border: 3px solid white;
